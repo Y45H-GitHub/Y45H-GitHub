@@ -40,21 +40,6 @@ I focus on clean architecture, CI/CD automation, and performance optimization fo
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" height="30"/> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,aws,git,postman" height="30"/> |
 
----
-
-### 🚀 Featured Projects
-
-#### 🗣️ [OratorAI – Presentation Coach](https://github.com/46-akshat/OratorAI)
-AI-powered speech coaching platform with real-time transcription and contextual feedback.  
-**Tech:** Java 21, Spring Boot, REST API, AssemblyAI, Gemini AI, ElectronJS
-
-#### 💬 [Distributed Chat System](https://github.com/Y45H-GitHub/One-to-One-Chat-App-Mongo-SpringBoot-)
-A lightweight chat backend with sub-50 ms latency and real-time WebSocket communication.  
-**Tech:** Spring Boot, MongoDB, WebSocket, Docker
-
-#### 🐾 [Animal Welfare Tracker](https://github.com/Y45H-GitHub/Animal-Welfare-Tracker-Application)
-A geolocation-based alert system for animal rescue responders with route visualization.  
-**Tech:** Spring Boot, Google Maps API, MySQL, JavaMailSender
 
 ---
 
