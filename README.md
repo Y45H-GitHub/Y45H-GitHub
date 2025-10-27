@@ -48,7 +48,7 @@ I focus on clean architecture, CI/CD automation, and performance optimization fo
 - 🧠 **Amazon ML Summer School 2025**  
 - 🥈 **Hack Synthesis – 2nd Place**, 30-Hour Hackathon (UEM Kolkata)  
 - 🎯 **Smart Bengal Hackathon Finalist** – Smart Agriculture Domain  
-- 💻 **LeetCode Peak Rating:** 1548 (Top 33%)  
+- 💻 **LeetCode Peak Rating:** 1577   
 
 ---
 
