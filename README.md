@@ -20,20 +20,19 @@
 
 ### 👋 About Me
 
-I’m **Yash**, a backend developer focused on building **resilient, scalable, and efficient** systems.
-I enjoy working with **Java + Spring Boot**, crafting distributed microservices and asynchronous systems that stay calm under pressure.
+I’m **Yash**, a backend developer focused on building **resilient, scalable, and efficient** systems. Currently pursuing my B.Tech in ECE. I enjoy working with **Java + Spring Boot**, crafting distributed microservices and asynchronous systems that stay calm under pressure.
 
-* 💼 Ex-Backend Developer Intern at **Eagle Verse Technologies**, built a **B2B SaaS backend** powering AI-driven salon management
-* ⚙️ Working with **RabbitMQ**, **Redis**, and **Docker** for real-world scalability
-* 🌱 Exploring **event-driven design** and **cloud-native architecture**
-* 💬 Love talking about: system design, microservices, and backend scalability
+* 💼 **Ex-Backend Developer Intern at Eagle Verse Technologies:** Architected a B2B SaaS backend, implementing **RabbitMQ** to improve API latency by **~75%** and reducing infra costs by **50%** via Docker optimizations.
+* ⚙️ **Core Engineering:** Experienced in designing paginated REST APIs that reduce payload sizes by **30%** and securing data with **JWT + AES-256**.
+* 🌱 **Exploring:** Event-driven design, Cloud-native architecture, and System Design.
+* 💬 **Ask me about:** Microservices, Backend Scalability, and Database Optimization.
 
 ---
 
 ### 🧰 Tech Stack
 
 * **Languages:**
-    <img src="https://skillicons.dev/icons?i=java,python,sql" height="30" alt="Java, Python, SQL"/>
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,sql" height="30" alt="Java, Python, C++, SQL"/>
 * **Backend:**
     <img src="https://skillicons.dev/icons?i=spring,fastapi,rabbitmq" height="30" alt="Spring Boot, FastAPI, RabbitMQ"/>
 * **Databases:**
@@ -45,17 +44,17 @@ I enjoy working with **Java + Spring Boot**, crafting distributed microservices 
 
 ### 💡 Projects
 
-* 🗨️ **[Distributed Chat Application](https://github.com/Y45H-GitHub/One-to-One-Chat-App-Mongo-SpringBoot-)**
-    Real-time WebSocket chat backend (sub-50ms latency) with MongoDB and Dockerized deployment.
+* 🚚 **[OptiLogix - Supply Chain Platform](https://github.com/Y45H-GitHub/OptiLogix)**
+    Full-stack logistics platform implementing the **BECKN Protocol** for decentralized search. Integrated **Razorpay & Paytm** for secure payments and Flask microservices for automated tracking.
     <br/><br/>
 * 🔐 **[Centralized Config & Secret Manager](https://github.com/Y45H-GitHub/centralized-config-secret-manager)** | [Live](https://centralized-config-secret-manager.onrender.com/)
-    Secure FastAPI-based system for managing secrets and configs across environments.
+    Secure **FastAPI**-based system for managing secrets and configs across environments. Features encryption, versioning, and environment-based segregation.
     <br/><br/>
 * 🐾 **[Animal Welfare Tracker](https://github.com/Y45H-GitHub/Animal-Welfare-Tracker-Application)** | [Live](https://animal-welfare-app-e2jc.vercel.app/)
-    Spring Boot + Google Maps API integration for animal geolocation and alerts.
+    **Spring Boot** + **Google Maps API** integration for animal geolocation tagging. Includes automated responder alerts via JavaMailSender with <60s latency.
     <br/><br/>
 * 🗣️ **[Orator AI – Speech Coach](https://github.com/46-akshat/OratorAI)**
-    Reactive Spring Boot backend using AssemblyAI and Gemini for real-time speech feedback.
+    Reactive Spring Boot backend using **AssemblyAI** and **Gemini** for real-time speech feedback. Handles multipart audio uploads up to 100MB.
 
 ---
 
@@ -64,7 +63,7 @@ I enjoy working with **Java + Spring Boot**, crafting distributed microservices 
 * 🎓 Selected for **Amazon ML Summer School 2025**
 * 🥈 **2nd Place** – *Hack Synthesis*, UEM Kolkata (30-Hour Hackathon)
 * 🌾 Finalist – *Smart Bengal Hackathon 2025*, Smart Agriculture Domain
-* 💻 **LeetCode Peak Rating:** 1622 (Weekly Contest 473)
+* 💻 **LeetCode Peak Rating:** 1660
 
 ---
 
