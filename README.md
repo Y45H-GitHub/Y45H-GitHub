@@ -2,14 +2,14 @@
 
 <p><strong>Backend Engineer — Java · Spring Boot · Distributed Systems</strong></p>
 
-<p>Incoming Technology Program Analyst , Wells Fargo (Aug 2026) · Kolkata, India</p>
+<p>Incoming Technology Program Analyst, Wells Fargo (Aug 2026) · Kolkata, India</p>
 
 <p>
   <a href="mailto:yash.ch3221@gmail.com"><img src="https://img.shields.io/badge/-Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/yashvchoudhary/"><img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Y45H-GitHub"><img src="https://img.shields.io/badge/-GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/cant_optimize/"><img src="https://img.shields.io/badge/-LeetCode-1a1a1a?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://terminal-eight-pi.vercel.app//"><img src="https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://terminal-334ekypl4-yassshs-projects.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <br/>
@@ -78,17 +78,24 @@ Spring Boot + Google Maps API for geolocation tracking across 20+ assets, with a
 
 ## Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Y45H-GitHub&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Y45H-GitHub&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Y45H-GitHub&show_icons=true&hide_border=true&hide_title=true&count_private=true" alt="GitHub stats" width="49%"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Y45H-GitHub&layout=compact&theme=github_dark&hide_border=true&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Y45H-GitHub&layout=compact&theme=default&hide_border=true&hide_title=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y45H-GitHub&layout=compact&hide_border=true&hide_title=true" alt="Top languages" width="49%"/>
-</picture>
-<br clear="left"/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y45H-GitHub&theme=github" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Y45H-GitHub&theme=github" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Y45H-GitHub&theme=github" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Y45H-GitHub&theme=default&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y45H-GitHub&theme=github-compact&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Y45H-GitHub&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <br/>
 
